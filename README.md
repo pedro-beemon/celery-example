@@ -1,0 +1,2 @@
+# celery-example
+Exemplo Celery
